@@ -1,0 +1,5 @@
+gunicorn
+flask
+tensorflow==2.3.0
+pillow
+numpy
